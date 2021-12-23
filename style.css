@@ -314,7 +314,7 @@ ul {
 
   .variavel {
     grid-template-columns: 1fr 1fr;
-    gap: 40px;
+    gap: 70px;
     box-sizing: border-box;
   }
 
@@ -336,7 +336,7 @@ ul {
 @media (max-width: 575px) {
   .variavel {
     grid-template-columns: 1fr 1fr;
-    gap: 0px;
+    gap: 50px;
     box-sizing: border-box;
   }
 
